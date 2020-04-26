@@ -2,6 +2,8 @@ const http = require('http');
 const url = require('url');
 const querystring = require('querystring');
 
+//teste
+
 const fileHelper = require('./helpers/fileHelper.js');
 
 fileHelper.createDatabase();
